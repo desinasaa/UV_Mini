@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UV Browser Mini</string>
+    <string name="go">Pencarian</string>
+    <string name="bookmarksshow">Bookmarks</string>
+    <string name="action_history">Riwayat</string>
+    <string name="historyclear">Bersihkan Riwayat</string>
+    <string name="action_tabs">Tab Baru</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="credits">Credits</string>
+    <string name="desktop">Versi Desktop</string>
+    <string name="action_incognito">Mode Penyamaran</string>
+    <string name="action_added">Ditambahkan</string>
+    <string name="action_see">Lihat</string>
+    <string name="historytast">Riwayat Dibersihkan</string>
+    <string name="delete_dialog_title">Hapus Bookmark ?</string>
+    <string name="delete_dialog_content">Are Anda Yakin Akan Menghapus Bookmark ini ?</string>
+    <string name="boomarks">Bookmarks</string>
+    <string name="home">Halaman Utama</string>
+    <string name="look">Tampilan</string>
+    <string name="looksummary">Ubah Tampilan Browser</string>
+    <string name="browser">Browser</string>
+    <string name="theme">Tema</string>
+    <string name="themesummary">Pilih Tema Browser</string>
+    <string name="text">Ukuran Teks</string>
+    <string name="textsummary">Pilih Ukuran Teks Browser</string>
+    <string name="search_engine">Pilih Mesin Pencari</string>
+    <string name="java">Ijinkan JavaScript</string>
+    <string name="plugins">Ijinkan plugins</string>
+    <string name="plugins_summary">Akan Mengijinkan Plugins di Browser</string>
+    <string name="cache">Ijinkan Penyimpanan Cache</string>
+    <string name="startpage">Halaman Mulai</string>
+    <string name="about">Tentang</string>
+    <string name="notes">Versi 1.0.2</string>
+    <string name="startpagedialog">Masukkan URL Halaman Awal yang Anda Inginkan</string>
+    <string name="bookmark_dialog">Ketik Nama Bookmark Anda</string>
+    <string name="version">Versi</string>
+    <string name="stop">Berhenti</string>
+    <string name="download">Apakah Anda Ingin Download: </string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="license_about">Licensed under Apache License v2.0</string>
+    <string name="license">Licence</string>
+    <string name="github">Lihat on GitHub</string>
+    <string name="delete">Hapus</string>
+    <string name="press_to_quit">Tekan Lagi Untuk Keluar</string>
+    <string name="picture">Ubah Gambar Laci</string>
+    <string name="see_picture">Lihat Gambar</string>
+    <string name="download_picture">Download Gambar</string>
+    <string name="save_link">Salin Link</string>
+    <string name="share">Bagikan</string>
+    <string name="lock">Kunci Laci Navigasi Kanan</string>
+    <string name="find">Temukan Teks</string>
+    <string name="action_find">Temukan di Halaman</string>
+    <string name="action_export">Ekspor Konfigurasi Saat Ini ke File</string>
+    <string name="action_import">Impor Konfigurasi dari File</string>
+    <string name="action_img_block">Blok Gambar</string>
+    <string name="action_ad_block">Blok Iklan</string>
+    <string name="action_location">Ijinkan Lokasi</string>
+    <string name="choose">Pilih</string>
+    <string name="succes_save">Simpan Berhasil</string>
+    <string name="succes_import">Import Berhasil</string>
+    <string name="error">Error</string>
+    <string name="select">Pilih</string>
+    <string name="cookie">Aktifkan Cookie Pihak Ketiga</string>
+    <string name="tab_close">Tutup Laci pada Klik Tab</string>
+    <string name="night_mode">Mode Malam</string>
+    <string-array name="color">
+        <item name = "1">Putih</item>
+        <item name ="2">Abu-abu</item>
+        <item name ="3">Merah</item>
+        <item name="4">Biru</item>
+        <item name="5">Hijau</item>
+        <item name="6">Hitam</item>
+        <item name ="7">Indigo</item>
+        <item name="8">Cyan</item>
+        <item name="9">Orange</item>
+        <item name="10">Lime</item>
+    </string-array>
+    <string-array name="text">
+        <item name = "1">Kecil</item>
+        <item name ="2">Normal</item>
+        <item name ="3">Besar</item>
+        <item name="4">Extra Besar</item>
+    </string-array>
+    <string-array name="home_page">
+        <item name = "default">Default</item>
+        <item name ="custom">Custom</item>
+    </string-array>
+    <string name="drawer_open">Buka Panel Samping Navigasi</string>
+    <string name="drawer_close">Tutup Panel Navigasi</string>
+
+</resources>
+
+
+

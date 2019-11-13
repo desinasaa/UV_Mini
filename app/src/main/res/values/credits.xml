@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_credits_content" translatable="false">
+       12G Fast Speed Internet  \n
+        THANK YOU EVERYONE! \n
+      This wouldn\'t be possible without you! \n
+      Thanks to all translators that helped! \n
+      Your translations rock! \n
+      Thanks to Pyotr! our Facebook page admin \n
+      Thanks to supergrobi94! for the awesome looking app icon and graphics \n
+      Thanks to GitHub Platform! for hosting this project \n
+      Thanks to Crowdin Platform! for making translations possible \n
+        Thanks to the Lightning Browser project! for some useful code \n
+        Thanks to the TextDrawable library! \n
+        Thank you all who encouraged me to keep on going! \n
+        Vlad Todosin - BeHe ExploreR developer \n
+    </string>
+</resources>
